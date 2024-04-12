@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F07FF7,100:58B1F9&height=300&section=header&text=30isDead&&fontColor=ffffff&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F07FF7,100:58B1F9&height=300&section=header&text=Welcome%20To%2030's%20Gifhub!&&fontColor=ffffff&animation=fadeIn&fontSize=60)
 
 <!--
 **30isdead/30isdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
