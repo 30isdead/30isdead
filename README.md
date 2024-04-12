@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B9B9B9,200:494949&height=100&section=header&text=Welcome%20To%2030's%20Github!&&fontColor=ffffff&animation=twinkling&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B9B9B9,100:494949&height=200&section=header&text=Welcome%20To%2030's%20Github!&&fontColor=ffffff&animation=twinkling&fontSize=40)
 
 <!--
 **30isdead/30isdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
