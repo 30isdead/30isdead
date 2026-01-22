@@ -64,9 +64,8 @@ A curated place discovery app with category chips and smooth UX.
 
 ## 📫 Contact
 
-- Email: **your_email_here**
-- Portfolio: **your_link_here**
-- Instagram / Reels: **your_link_here**
+- Email: 1224tpdud@gmail.com
+- LinkedIn:https://www.linkedin.com/in/seyoung-park-3571a7312/
 
 ---
 
