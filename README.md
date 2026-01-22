@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B9B9B9,100:494949&height=200&section=header&text=Welcome%20To%2030's%20Github!&&fontColor=ffffff&animation=twinkling&fontSize=40&fontAlignY=35)
 
-## 👋 Hello, I'm Sol (30)
+## 👋 Hello, I'm 30
 
 I'm an iOS developer who loves building products that feel **smooth, thoughtful, and human**.  
 I care about **UX**, **clean architecture**, and **shipping real products** — not just writing code.
